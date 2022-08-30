@@ -1,3 +1,3 @@
-<img src="image.gif" width="200px">
+<img src="image.gif" width="200px" align="right">
 
-# Seja Bem vindo(a) ao meu perfil no GitHub!
+# 💥Seja Bem vindo(a) ao meu perfil no GitHub!
