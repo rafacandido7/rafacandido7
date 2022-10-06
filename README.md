@@ -16,4 +16,4 @@ Hi! I'm Rafael Cândido, Computer Science student and JavaScript Developer.
 ![](https://github-profile-trophy.vercel.app/?username=rafacandido7&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://user-images.githubusercontent.com/98934793/194191380-b05fc891-02cd-4287-bf42-6cd746943c03.svg)
+![](https://user-images.githubusercontent.com/98934793/194191479-ed5e86b1-df1d-4e2d-813f-6e6e6a3ca08a.svg)
