@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Rafael Cândido, Computer Science student and JavaScript Developer.
+Hi! I'm Rafael Cândido, Computer Science student and Fullstack JavaScript Developer.
 
 
 ## 🌐 Socials:
