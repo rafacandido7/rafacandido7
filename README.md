@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi! I'm Rafael Cândido, Computer Science student and Fullstack Developer.<br><br>
-
+Hi! I'm Rafael Cândido, a Computer Science student and Backend Developer with a focus on system architecture and building scalable APIs.<br>I have experience developing microservices, optimizing infrastructure with Docker, Redis, and RabbitMQ, and using Azure for cloud deployment and application management. Always eager for new challenges, I'm open to collaborations and discussing technology ideas.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafa.candido) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafacandido7/) 
