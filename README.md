@@ -42,8 +42,5 @@ I have experience developing microservices, optimizing infrastructure with Docke
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafacandido7&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafacandido7&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafacandido7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Some Quote
 ![](https://user-images.githubusercontent.com/98934793/194191479-ed5e86b1-df1d-4e2d-813f-6e6e6a3ca08a.svg)
