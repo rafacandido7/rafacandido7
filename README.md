@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Rafael Cândido, a Computer Science student and Backend Developer with a focus on system architecture and building scalable APIs.
+Hi! I'm Rafael Cândido, a Software Engineer and  Computer Science student with a focus on system architecture and building scalable APIs.
 <br><br>
 I have experience developing microservices, optimizing infrastructure with Docker, Redis, and RabbitMQ, and using Azure for cloud deployment and application management. Always eager for new challenges, I'm open to collaborations and discussing technology ideas.<br><br>
 
